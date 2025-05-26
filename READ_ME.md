@@ -121,14 +121,8 @@ python mapit_selenium.py "India Gate"
 
 ## 🧑‍💻 Author
 
-**Your Name**
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-link)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more info.
+**Nishchay Gupta**
+[GitHub](https://github.com/nishgup2005) • [LinkedIn](https://linkedin.com/in/nishchay-gupta/)
 
 ---
 
